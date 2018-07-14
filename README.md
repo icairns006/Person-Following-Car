@@ -1,7 +1,7 @@
 # Person-Following-Car
 This project uses a hobby grade RC car that is controlled by my laptop using an Arduino. Matlab code on my laptop finds a person using face detection, checkerboard following or color following. The computer then tells the arduino throttle commands and the arduino maps that to PWM commands for the ESC and Servo on the RC car.
 
-Read the README.pdf for a more in depth explanation
+Read the README.pdf for a more in-depth explanation
 
 
 Use the matlab scripts that start with Follow to do the person tracking. Pick following type you want (face, checkerboard, color)
