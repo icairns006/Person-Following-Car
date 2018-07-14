@@ -14,3 +14,6 @@ The navigation scheme does not know where objects are before it reaches them. It
 it finds. This is similar to a person who knows approximately where they want to go, but doesn’t have a map
 to find the best path. 
 You can change the start and goal locations to see different paths the robot takes. 
+
+Link to video of code running:
+https://www.youtube.com/watch?time_continue=1&v=jminU7njedA
